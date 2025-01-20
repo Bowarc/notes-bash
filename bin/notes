@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Source: https://github.com/bowarc/notes-bash
+
 # Set the SHELL environment variable, fixes POSIX-incompatible shells
 SHELL=/bin/bash
 
